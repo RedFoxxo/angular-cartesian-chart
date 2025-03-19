@@ -1,5 +1,25 @@
 {
   "name": "@foxxo/cartesian-chart",
+  "author": {
+    "name": "Foxxo",
+    "email": "blurio90@gmail.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/RedFoxxo/angular-cartesian-chart.git"
+  },
+  "bugs": {
+    "url": "https://github.com/RedFoxxo/angular-cartesian-chart/issues"
+  },
+  "description": "A library for creating Cartesian charts in Angular applications",
+  "keywords": [
+    "angular",
+    "chart",
+    "cartesian",
+    "visualization",
+    "data"
+  ],
+  "license": "MIT",
   "version": "1.0.0",
   "peerDependencies": {
     "@angular/common": ">=16.2.12",
